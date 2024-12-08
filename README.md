@@ -1,4 +1,7 @@
 Check CI/CD Status:
+[![Python CI/CD](https://github.com/nogibjj/kim_seijung_project8_python_to_rust/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project8_python_to_rust/actions/workflows/python.yml)
+
+[![Rust CI/CD](https://github.com/nogibjj/kim_seijung_project8_python_to_rust/actions/workflows/rust.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project8_python_to_rust/actions/workflows/rust.yml)
 
 # Mini-project #8
 #### Repo Title: Rewrite a Python Script in Rust
